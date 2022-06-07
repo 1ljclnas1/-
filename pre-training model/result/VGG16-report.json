@@ -1,0 +1,1 @@
+{"model": "VGG16", "best_mAP": 86.81666666666666, "lr": 1e-05, "optim": "Adam", "Batch_size": 50}

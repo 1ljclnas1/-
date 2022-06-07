@@ -1,0 +1,1 @@
+{"model": "AlexNet", "best_mAP": 85.38333333333333, "lr": 1e-05, "optim": "Adam", "Batch_size": 50}
